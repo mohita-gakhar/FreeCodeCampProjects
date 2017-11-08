@@ -1,0 +1,30 @@
+body 
+{
+    margin-top:20px;
+}
+top-buffer
+{
+  margin-top:20px;
+}
+li
+{
+  margin-top: 5px;
+}
+#horizontal-list
+{
+  list-style:none;
+}
+#horizontal-list li
+{
+  margin-right: 10px;
+  display:inline;
+}
+.fa
+{
+  color:#c2c3c4;
+}
+.jumbotron
+{
+  margin-top:20px;
+  font-family: Montserrat, sans-serif;
+}
