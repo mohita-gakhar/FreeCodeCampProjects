@@ -1,11 +1,11 @@
 # Set the default behavior, in case people don't have core.autocrlf set.
-* text eof=lf
+* text eol=lf
 
 # Text Files
-*.txt text
-*.html text
-*.css text
-*.js text
+*.txt text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
 
 # Denote all files that are truly binary and should not be modified.
 *.png binary
